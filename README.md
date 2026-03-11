@@ -1,22 +1,22 @@
 # Sales-Dashboard in Tableau
 Project Link - (https://public.tableau.com/views/salesdasahboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-# 📊 Sales Dashboard (Tableau)
+#  Sales Dashboard (Tableau)
 
 This project presents an interactive **Sales Dashboard** created using **Tableau** to analyze sales performance, customer purchasing behavior, and payment trends. The dashboard provides a clear overview of key business metrics and helps identify patterns in product categories, customer segments, and sales channels.
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 The objective of this dashboard is to transform raw sales data into actionable insights that help businesses understand **customer behavior, product performance, and revenue trends**.
 
 ---
-📊 Dashboard Preview
+Dashboard Preview
 <img width="1920" height="1080" alt="Screenshot 2026-03-07 125218" src="https://github.com/user-attachments/assets/2322ebbd-f7f2-4e22-8523-f04f82334ec5" />
 
 
-## 📊 Key Dashboard Features
+##  Key Dashboard Features
 
 ### Business KPIs
 
@@ -41,7 +41,7 @@ The objective of this dashboard is to transform raw sales data into actionable i
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 * Tableau
 * Data Visualization
@@ -49,7 +49,7 @@ The objective of this dashboard is to transform raw sales data into actionable i
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 * Clothing and shoes contribute a major share of total sales.
 * Female customers represent a larger portion of purchases.
